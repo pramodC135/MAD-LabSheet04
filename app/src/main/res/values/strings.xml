@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="nameField">Enter Name</string>
+    <string name="registerBtn">Register</string>
+    <string name="sendBtn">sign up</string>
+    <string name="name">Enter Name</string>
+</resources>
